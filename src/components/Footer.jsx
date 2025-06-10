@@ -4,8 +4,8 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-section">
-          <h3>Seri's Korean Delight 🍜</h3>
-          <p>Authentic Korean cuisine delivered to your door.</p>
+          <h3>Seoul's Spice Dynasty 🍜</h3>
+          <p>Delicious and well Garnished Korean cuisine delivered to your door.</p>
         </div>
         <div className="footer-section">
           <h3>Contact Us</h3>
@@ -22,7 +22,7 @@ function Footer() {
           <h3>Follow Us</h3>
           <p>
             <span className="social-icon">📘</span>
-            <a href="https://facebook.com/Seriskoreandelight" target="_blank" rel="noopener noreferrer">Facebook:  @SerisKoreanDelight</a>
+            <a href="https://facebook.com/Seoulspicedynasty" target="_blank" rel="noopener noreferrer">Facebook:  @Seoulspicedynasty</a>
           </p>
           <p>
             <span className="social-icon">📱</span>
@@ -30,7 +30,7 @@ function Footer() {
           </p>
           <p>
             <span className="social-icon">📸</span>
-            <a href="https://instagram.com/SerisKoreanDelight" target="_blank" rel="noopener noreferrer">Instagram: @SerisKoreanDelight</a>
+            <a href="https://instagram.com/Seoul_spice_dynasty" target="_blank" rel="noopener noreferrer">Instagram: @Seoul_spice_dynasty</a>
           </p>
         </div>
       </div>

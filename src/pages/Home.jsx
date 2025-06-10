@@ -5,8 +5,8 @@ function Home() {
   return (
     <div className="home">
       <section className="hero">
-        <h1>Welcome to Seri's Korean Delight</h1>
-        <p>Authentic Korean cuisine delivered to your door</p>
+        <h1>Welcome to Seoul's Spice Dynasty</h1>
+        <p>Delicious and well Garnished Korean cuisine delivered to your door</p>
         <Link to="/menu" className="cta-button">Explore Menu</Link>
       </section>
       <section className="featured">

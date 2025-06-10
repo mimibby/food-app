@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="navbar-logo"> Seri's Korean Delight 🍜</Link>
+        <Link to="/" className="navbar-logo"> Seoul's Spice Dynasty 🍜</Link>
         <button className="navbar-toggle" onClick={() => setIsOpen(!isOpen)}>
           ☰
         </button>
