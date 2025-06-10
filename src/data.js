@@ -1,0 +1,86 @@
+// src/data.js
+export const menuItems = [
+  // Mains
+  {
+    id: 1,
+    name: "Bibimbap",
+    category: "mains",
+    price: 12.99,
+    description: "Mixed rice with vegetables, beef, and gochujang sauce",
+    image: "/images/bibimbap.jpg",
+  },
+  {
+    id: 2,
+    name: "Tteokbokki",
+    category: "mains",
+    price: 9.99,
+    description: "Spicy cylindrical rice cakes in red chili sauce",
+    image: "/images/tteokbokki.jpg",
+  },
+  {
+    id: 3,
+    name: "Korean Fried Chicken",
+    category: "mains",
+    price: 14.99,
+    description: "Crispy fried chicken with sweet and spicy sauce",
+    image: "/images/friedchicken.webp",
+  },
+  {
+    id: 4,
+    name: "Kimbap",
+    category: "mains",
+    price: 7.99,
+    description: "Seaweed rice rolls with vegetables and meat",
+    image: "/images/Chicken-Kimbap.png",
+  },
+  {
+    id: 5,
+    name: "Bulgogi",
+    category: "mains",
+    price: 15.99,
+    description: "Marinated beef grilled to perfection",
+    image: "/images/beef-bulgogi.webp",
+  },
+  {
+    id: 6,
+    name: "Japchae",
+    category: "mains",
+    price: 11.99,
+    description: "Stir-fried glass noodles with vegetables and beef",
+    image: "/images/japchae_plate.jpg",
+  },
+  {
+    id: 7,
+    name: "Jajangmyeon",
+    category: "mains",
+    price: 10.99,
+    description: "Noodles in black bean sauce with pork and vegetables",
+    image: "/images/jajangmyeon.jpg",
+  },
+  // Sides
+  {
+    id: 8,
+    name: "Kimchi",
+    category: "sides",
+    price: 4.99,
+    description: "Fermented spicy cabbage, a Korean staple",
+    image: "/images/kimchi.jpg",
+  },
+  {
+    id: 9,
+    name: "Banchan Set",
+    category: "sides",
+    price: 6.99,
+    description: "Assorted side dishes including pickled radish and seasoned spinach",
+    image: "/images/banchan-korean.jpg",
+  },
+  // Drinks
+  {
+    id: 10,
+    name: "Soju",
+    category: "drinks",
+    price: 8.99,
+    description: "Traditional Korean distilled spirit",
+    image: "/images/soju.webp",
+  },
+];
